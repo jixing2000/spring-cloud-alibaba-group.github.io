@@ -124,7 +124,7 @@ Nacos Config 目前提供了三种配置能力从 Nacos 拉取相关的配置：
 
 当三种方式共同使用时，他们的一个优先级关系是: **_A < B < C_**
 
-### springc.config.import 引入
+### spring.config.import 引入
 
 这里假设有一个配置文件 bootstrap.yml，升级到 2021.0.1.0 以上的版本应该怎么配置呢？
 
